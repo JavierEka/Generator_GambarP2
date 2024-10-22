@@ -2,7 +2,7 @@
 Berikut merupakan hasil dari tugas asistensi praktikum dasar pemrograman dengan judul "Percabangan Perulangan Array String"
 
 # Deskripsi Tugas
-Membuat sebuah program c yang dapat menampilkan output gambar yang minimal tersusun dari simbol asterisk “*” dan space “ “ dan dapat menampilkan satu jenis gambar berukuran panjang dan lebar sesuai input dengan minimal panjang 10 karakter dan lebar 5 karakter serta maksimal panjang 100 karakter dan lebar 75 karakter. Apabila melebihi atau kurang dari batas maksimal dan minimal maka gambar tidak akan ditampilkan dan akan menampilkan pesan sesuai pelanggaran. Selain itu, program Dapat menampilkan lebih dari satu jenis gambar, tergantung demand dari input dan Program dapat menerima input dan menampilkan output secara terus menerus sampai dihentikan secara paksa.
+Membuat sebuah program c yang dapat menampilkan output gambar yang minimal tersusun dari simbol asterisk “*” dan space “ “ dan dapat menampilkan satu jenis gambar berukuran panjang dan lebar sesuai input dengan minimal panjang 10 karakter dan lebar 5 karakter serta maksimal panjang 100 karakter dan lebar 75 karakter. Apabila melebihi atau kurang dari batas maksimal dan minimal maka gambar tidak akan ditampilkan dan akan menampilkan pesan sesuai pelanggaran. Selain itu, program dapat menampilkan lebih dari satu jenis gambar tergantung demand dari input dan program dapat menerima input dan menampilkan output secara terus menerus sampai dihentikan secara paksa.
 
 # Deskripsi Program
 Program menggunakan Percabangan, Perulangan, dan fungsi untuk menampilkan pola gambar berupa persegi panjang atau segitiga, yang tersusun dari simbol asterisk (*) dan spasi (" ")
